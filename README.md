@@ -45,6 +45,9 @@ cd duck2api
 ```bash
 docker-compose up -d
 ```
+### Koyeb部署
+地区选美国
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&name=duck2api&ports=8080;http;/&image=ghcr.io/aurora-develop/duck2api:latest)
 
 ## Usage
 
